@@ -44,6 +44,8 @@ INSTALLED_APPS = [
 
     # Local apps
     'users',
+    'teams',
+    'tasks',
 ]
 
 MIDDLEWARE = [
